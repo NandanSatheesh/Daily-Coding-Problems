@@ -2,4 +2,4 @@
 
 ## Challenges
 
-1. [Subset Sum](./codes/1.py)
+1. [Subset Sum](./Codes/1.py)
