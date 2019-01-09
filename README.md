@@ -6,6 +6,7 @@
 2. [Multiply Elements in a List](./Codes/2.py)
 3. [Balanced Brackets](./Codes/3.py)
 4. [Minimum Classrooms Required](./Codes/4.py)
+5. [Serialize Tree](./Codes/5.py)
 
 
 ## Daily Coding Problem - Subscribe [Here](https://www.dailycodingproblem.com/)
