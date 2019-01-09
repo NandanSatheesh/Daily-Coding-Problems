@@ -13,6 +13,7 @@
 9. [Largest Sum of Non-Adjacent Numbers](./Codes/9.py)
 10. [](./Codes/)
 11. [](./Codes/)
+12. [N-Staircase Problem](./Codes/12.py)
 [](./Codes/)
 [](./Codes/)
 [](./Codes/)
