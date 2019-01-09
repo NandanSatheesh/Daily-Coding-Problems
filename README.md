@@ -9,7 +9,10 @@
 5. [Serialize Tree](./Codes/5.py)
 6. [](./Codes/)
 7. [Code Strings](./Codes/7.py)
-
+8. [](./Codes/)
+9. [Largest Sum of Non-Adjacent Numbers](./Codes/9.py)
+10. [](./Codes/)
+11. [](./Codes/)
 [](./Codes/)
 [](./Codes/)
 [](./Codes/)
