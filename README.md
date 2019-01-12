@@ -14,7 +14,7 @@
 10. [](./Codes/)
 11. [](./Codes/)
 12. [N-Staircase Problem](./Codes/12.py)
-[](./Codes/)
+13. [Longest Non Repeating Subsequence](./Codes/13.py)
 [](./Codes/)
 [](./Codes/)
 [](./Codes/)
