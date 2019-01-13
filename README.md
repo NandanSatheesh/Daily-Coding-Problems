@@ -16,14 +16,8 @@
 12. [N-Staircase Problem](./Codes/12.py)
 13. [Longest Non Repeating Subsequence](./Codes/13.py)
 14. [Estimate PI](./Codes/14.py)
-15. [](./Codes/)
-
-
-
-
-
-
-35. [Sort R,G and B](./Codes/35.py)
+[](./Codes/)
+[](./Codes/)
 [](./Codes/)
 [](./Codes/)
 [](./Codes/)
