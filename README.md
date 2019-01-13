@@ -17,7 +17,7 @@
 13. [Longest Non Repeating Subsequence](./Codes/13.py)
 14. [Estimate PI](./Codes/14.py)
 [](./Codes/)
-[](./Codes/)
+35. [Sort R,G and B](./Codes/35.py)
 [](./Codes/)
 [](./Codes/)
 [](./Codes/)
